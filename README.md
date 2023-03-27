@@ -1,6 +1,6 @@
 # CarTradeo
 ## Figma
-<p>Você pode ver o protótipo de baixa clicando <a href="https://www.figma.com/file/jvqSMSIrjMxfqVUOSmbXqs/CarTradeo-(Copy)?node-id=0%3A1&t=hzanEqdFZqAIZIWk-1">aqui</a>.</p>
+<p>Você pode ver o protótipo de baixa clicando <a href="https://www.figma.com/proto/jvqSMSIrjMxfqVUOSmbXqs/Prot%C3%B3tipo-de-Baixa-CarTradeo-(Entrega-01)?scaling=contain&page-id=0%3A1&node-id=1-12&starting-point-node-id=1%3A12">aqui</a>.</p>
 
 ## JIRA
 <p>Você pode ver toda nossa organização clicando <a href="https://jiraprojectsccpo.atlassian.net/jira/software/projects/PDF/boards/1/roadmap">aqui</a>.</p>
