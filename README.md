@@ -29,7 +29,7 @@ O CarTradeo é uma plataforma web de marketaplace, na qual está em desenvolvime
 			Bruna Carvalho
 			<br />
 			bbfc@cesar.school
-			<img src="https://media.licdn.com/dms/image/D4D03AQHXg-PJJLc-vw/profile-displayphoto-shrink_400_400/0/1671025625368?e=1683763200&v=beta&t=9UJ8WzNCZyVUQqCxwNPgcfJ1-dUXMMqhKJJG1QV-Vds" width=200>
+			<img src="[https://media.licdn.com/dms/image/D4D03AQHXg-PJJLc-vw/profile-displayphoto-shrink_400_400/0/1671025625368?e=1683763200&v=beta&t=9UJ8WzNCZyVUQqCxwNPgcfJ1-dUXMMqhKJJG1QV-Vds](https://media.licdn.com/dms/image/D4D03AQGwFWKSKKaDUA/profile-displayphoto-shrink_200_200/0/1679698808237?e=1685577600&v=beta&t=ekx9zfNMxEOLnxBfR8FkIkIvjCPec60kbxCSzZER-YE)" width=200>
 	    </td>
   </tr>
    <tr>
